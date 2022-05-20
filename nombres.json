@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Carlos",
+        "edad": 23,
+        "nacimiento": "12/12/1993"
+    },
+    {
+        "nombre": "Juana",
+        "edad": 15,
+        "nacimiento": "12/12/2000"
+    },
+    {
+        "nombre": "Pablo",
+        "edad": 45,
+        "nacimiento": "12/12/1987"
+    },
+    {
+        "nombre": "Libardo",
+        "edad": 34,
+        "nacimiento": "12/12/1968"
+    }
+]
