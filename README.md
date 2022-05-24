@@ -11,3 +11,6 @@ Aquí encontrarán los **Colab** que contienen los ejercicios hechos en clase:
 4. Diccionarios. [Enlace](https://colab.research.google.com/drive/14o8MNqH6HxvLAiOx0fmiBPRZyr9rtxPG?usp=sharing)
 5. Archivos. [Enlace](https://colab.research.google.com/drive/1B3HHHK5txEclLq-ULvmV-elQbw4MQ-jx?usp=sharing)
 6. JSON [Enlace](https://colab.research.google.com/drive/1YssDE7izoaUOCX14JeS2kgaTb01Z0Y8a?usp=sharing)
+7. Manejo de excepciones [Enlace](https://colab.research.google.com/drive/1EQaxT9X7YGtJ-UKkKfneqeCG_TnPISOa)
+8. Librerias [Enlace](https://colab.research.google.com/drive/18hVYNMdBFdTGIRX0V_x1cHoevXb1IPR7)
+9.
